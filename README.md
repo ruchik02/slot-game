@@ -1,3 +1,7 @@
+Netlify Link:https://slot-game-react.netlify.app
+
+![slot](https://user-images.githubusercontent.com/83516020/159931292-a84c0250-9530-4253-9f8a-ee171285fcf8.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
